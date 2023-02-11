@@ -1,0 +1,6 @@
+Note App !
+
+peter
+Learn GO
+Go are a really awesome and fast languange for building backend.
+0 : 18
